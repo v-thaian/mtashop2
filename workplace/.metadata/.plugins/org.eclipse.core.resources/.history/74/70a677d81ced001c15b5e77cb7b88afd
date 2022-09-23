@@ -1,0 +1,14 @@
+module MartfuryShop {
+	exports vn.fs.dto;
+	exports vn.fs.controller;
+	exports vn.fs;
+	exports vn.fs.service.implement;
+	exports vn.fs.common;
+	exports vn.fs.service;
+	exports vn.fs.utils;
+	exports vn.fs.repository;
+	exports vn.fs.api;
+	exports vn.fs.handler;
+	exports vn.fs.config;
+	exports vn.fs.entity;
+}
